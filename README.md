@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web3 developer based in Nairobi, Kenya</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tevin-o&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=forver18age&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---

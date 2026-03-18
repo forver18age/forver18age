@@ -13,7 +13,6 @@
 * 🌱 Learning **Smart Contract Development with Aiken**
 * 👯 Looking to collaborate on **Cardano Ecosystem Projects**
 * 🤝 Open to contributions for **Uwezo Link Projects**
-* 👨‍💻 Check out all my work: [GitHub/Tevin-O](https://github.com/Tevin-O)
 * 💬 Ask me about **React.js, Mesh.js, Aiken, Solidity, ML, Blockchain**
 * 📫 Reach me: **[tevin@uwezolinkinitiative.org](mailto:tevin@uwezolinkinitiative.org)**
 * ⚡ Fun fact: *In 2010, someone bought two pizzas 🍕 for 10,000 Bitcoins!*
